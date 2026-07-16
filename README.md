@@ -101,4 +101,4 @@ Trip data is exported from the vehicle GPS tracking portal (device-based trackin
 
 ## 📄 License
 
-Internal use — KESCO Vehicle Tracking Project. Update this section with an appropriate license if the repository is made public.
+Internal use — KESCO Vehicle Tracking Project.
